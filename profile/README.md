@@ -1,8 +1,9 @@
 # `</autumn.community>` ✨
 
-**autumncommunity** - An organization developing a framework [Corium](https://github.com/gmodcorium/corium) for the game Garry's Mod, also extensions for them.
+**autumncommunity** - An organization developing a framework [Corium](https://github.com/gmodcorium/corium)
+for the game Garry's Mod, also extensions for them.
 
-### discord
-[Join our discord!](https://discord.gg/HspPfVkHGh)
-
-![Discord Banner 2](https://discordapp.com/api/guilds/1161025351099625625/widget.png?style=banner2)
+#### 🦖 Time to join in our discord!
+<a href="https://discord.gg/HspPfVkHGh">
+  <img src="https://discordapp.com/api/guilds/1161025351099625625/widget.png?style=banner2">
+</a>
