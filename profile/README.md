@@ -1,6 +1,6 @@
-# `</gmodcorium>` ✨
+# `</autumn.community>` ✨
 
-**gmodcorium** - An organization developing a framework [Corium](https://github.com/gmodcorium/corium) for the game Garry's Mod, also extensions for them.
+**autumncommunity** - An organization developing a framework [Corium](https://github.com/gmodcorium/corium) for the game Garry's Mod, also extensions for them.
 
 ### discord
 [Join our discord!](https://discord.gg/HspPfVkHGh)
