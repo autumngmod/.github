@@ -10,5 +10,6 @@ You can join our [community here](https://discord.gg/HspPfVkHGh).
 </a>
 
 # our projects
-- [gmodtainer](https://github.com/autumngmod/gmodtainer) - Garry's Mod Dedicated Server in docker container
-- [json](https://github.com/autumngmod/json) - Json schema needed to unify addon descriptions.
+- [libloader](https://github.com/autumngmod/libloader) - Package (actually lua library) manager for Garry's Mod
+- [binloader](https://github.com/autumngmod/binloader) - Dll modules autostart
+- [smokkkinlib](https://github.com/autumngmod/smokkkinlib) - Just good lua library
