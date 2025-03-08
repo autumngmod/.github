@@ -1,6 +1,5 @@
-# 🍂 autumngmod
-autumngmod is an open organization\
-developing staff/tools for Garry's Mod.
+![hat](https://github.com/autumngmod/.github/blob/main/hat.png?raw=true)
+
 # community
 You represent an open community, we use Discord as a means of communication.\
 You can join our [community here](https://discord.gg/HspPfVkHGh).
@@ -11,5 +10,6 @@ You can join our [community here](https://discord.gg/HspPfVkHGh).
 
 # our projects
 - [libloader](https://github.com/autumngmod/libloader) - Package (actually lua library) manager for Garry's Mod
+- [cream](https://github.com/autumngmod/cream) - Library for Garry's Mod that adds an API to work with the Web UI.
 - [binloader](https://github.com/autumngmod/binloader) - Dll modules autostart
 - [smokkkinlib](https://github.com/autumngmod/smokkkinlib) - Just good lua library
