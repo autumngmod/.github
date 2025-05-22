@@ -9,6 +9,6 @@ You can join our [community here](https://discord.gg/HspPfVkHGh).
 </a>
 
 # our projects
-- [autumnnet](https://github.com/autumngmod/libloader) - High abstraction level network library for Garry's Mod.
+- [autumnnet](https://github.com/autumngmod/autumnnet) - High abstraction level network library for Garry's Mod.
 - [libloader](https://github.com/autumngmod/libloader) - Package (actually lua library) manager for Garry's Mod.
 - [cream](https://github.com/autumngmod/cream) - Library for Garry's Mod that adds an API to work with the Web UI.
